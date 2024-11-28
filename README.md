@@ -1,4 +1,6 @@
 # Genshin Impact Character Selection
+A recreation of Genshin Impact's character selection screen with additional features such as string search and favouriting system. <br>
+Made in Unity 2023.2.17f1.
 
 ## 🎮 Play On Web
 https://maxgreenkirby.github.io/Genshin-Impact-Character-Selection/
