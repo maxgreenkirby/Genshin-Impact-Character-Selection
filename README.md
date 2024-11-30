@@ -25,7 +25,7 @@
     <td>Stat Sort</td>
   </tr>
   <tr>
-    <td>Sorting Order Toggle</td>
+    <td>Sort Order Toggle</td>
   </tr>
   <tr>
     <td>Favourites System</td>
