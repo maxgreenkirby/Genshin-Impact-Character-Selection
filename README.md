@@ -22,7 +22,7 @@
     <td>Element Filter</td>
   </tr>
   <tr>
-    <td>Stat-based Sorting</td>
+    <td>Stat Sort</td>
   </tr>
   <tr>
     <td>Sorting Order Toggle</td>
@@ -31,7 +31,7 @@
     <td>Favourites System</td>
   </tr>
   <tr>
-    <td>String-based Search</td>
+    <td>String Search</td>
   </tr>
 </table>
 
